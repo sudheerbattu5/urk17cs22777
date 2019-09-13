@@ -90,7 +90,7 @@ div7.absolute{
     background-color: skyblue;
 }
 div8.absolute{
-    position: absolute;
+    position: fixed;
     top: 240px;
     right: 0px;
     color: red;
