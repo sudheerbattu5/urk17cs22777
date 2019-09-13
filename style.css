@@ -89,7 +89,7 @@ div7.absolute{
     border: 2px solid #73AD21;
     background-color: skyblue;
 }
-div8.absolute{
+div8.fixed{
     position: fixed;
     top: 240px;
     right: 0px;
