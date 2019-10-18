@@ -17,15 +17,18 @@ nav a:hover{
     transition-duration: 0.3s;
 }
 nav{
-    background-color:#202040;
+    background-color:#92a8d1
+;
     text-align: center;
 }
 .btn{
     font-size:150%;
     border-radius: 7px;
-    background-color: #202040;
+    background-color: #92a8d1
+;
     color:#fcf9ea;
-    border:2px solid  #202040;
+    border:2px solid  #92a8d1
+;
 }
 .btn:hover{
     background-color:#fcf9ea;
@@ -34,7 +37,8 @@ nav{
 }
 input[type=text]{
     border:none;
-    background-color: #202040;
+    background-color: #92a8d1
+;
     color:white;
     width:70%;
     font-size:120%;
@@ -43,7 +47,8 @@ input[type=text]{
     position: fixed;
     bottom:0;
     width:100%;
-    background-color:#202040;
+    background-color:#92a8d1
+;
     color:white;
     
 }
