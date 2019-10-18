@@ -2,7 +2,7 @@ body{
     font-family: 'Trebuchet MS';
     font-weight: bolder;
     margin:0;
-    background-color:#f18973;
+    background-color:#80ced6;
 
 }
 nav a{
@@ -12,8 +12,8 @@ nav a{
     color:#f18973;
 }
 nav a:hover{
-    background-color:#f18973;
-    color:#f18973;
+    background-color:#80ced6;
+    color:#80ced6;
     transition-duration: 0.3s;
 }
 nav{
@@ -25,12 +25,12 @@ nav{
     font-size:150%;
     border-radius: 7px;
     background-color:#202040
-    color:#f18973;
+    color:#80ced6;
     border:2px solid  #202040
 ;
 }
 .btn:hover{
-    background-color:#f18973;
+    background-color:#80ced6;
     color:#202040;
     transition-duration: 0.3s;
 }
